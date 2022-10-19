@@ -1,5 +1,5 @@
 {
-  "name": "restapi",
+  "name": "apirest",
   "version": "1.0.0",
   "description": "this is a test restapi for the project which will be link to next.js frontend with axios",
   "main": "index.js",
